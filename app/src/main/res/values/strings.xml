@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Employee Management</string>
+    <string name="employee_name">Employee Name</string>
+    <string name="employee_id">Employee ID</string>
+    <string name="working_day">Working Day</string>
+    <string name="part_time">Part Time</string>
+    <string name="full_time">Full Time</string>
+    <string name="add_employee">Add Employee</string>
+    <string name="product_id">Product Id</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_type">Product Type</string>
+    <string name="product_type_book">Book</string>
+    <string name="product_type_newspaper">Newspaper</string>
+    <string name="product_type_pen">Pen</string>
+    <string name="product_management">Product Management</string>
+    <string name="product_admin">Product Admin</string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+</resources>
